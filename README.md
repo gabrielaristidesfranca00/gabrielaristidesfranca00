@@ -1,10 +1,9 @@
 
-
 <div align="center">
 ### 👋 Olá muito prazer sou o Gabriel
 ### 🚀 Desenvolvedor back-end
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=200&section=header&text=Gabriel%20Conceição&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=950606&height=200&section=header&text=Gabriel%20Franca&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Back%20SEnd%20Developer&descAlignY=58&descColor=ffffff)
 </div>
 
 
