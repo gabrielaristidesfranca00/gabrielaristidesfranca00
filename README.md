@@ -1,7 +1,7 @@
 
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=waving&color=950606&height=200&section=header&text=Gabriel%20Franca&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20%Back-End&descAlignY=58&descColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=950606&height=200&section=header&text=Gabriel%20Franca&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=DesenvolvedorBack-End%20%&descAlignY=58&descColor=ffffff)
 </div>
 
 
