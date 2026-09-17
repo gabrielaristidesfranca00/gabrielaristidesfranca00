@@ -5,12 +5,11 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=950606&height=200&section=header&text=Gabriel%20Franca&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=DesenvolvedorBack-End%20%&descAlignY=58&descColor=ffffff)
 </div>
 
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
 ## 👋 Sobre mim 
 Olá, meu nome é Gabriel, tenho 19 anos e atualmente curso Ciência da Computação na Universidade Cruzeiro do Sul. 
 Tenho interese na area da tecnologia, estou buscando uma oportunidade para desenvolver meus conhecimentos e adquir experiência profissional.
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 ## ⚡ Minhas habilidades 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
