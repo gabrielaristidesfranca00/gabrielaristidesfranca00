@@ -3,9 +3,6 @@
 
   
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=950606&height=200&section=header&text=Gabriel%20Franca&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=DesenvolvedorBack-End%20%&descAlignY=58&descColor=ffffff)
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
 </div>
 
 ## 👋 Sobre mim 
