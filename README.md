@@ -1,8 +1,11 @@
 <div align="center">
 
 <!-- Troque pela URL do seu banner (atualizado para Front-End) -->
-<img src="(https://capsule-render.vercel.app/api?type=waving&color=950606&height=200&section=header&text=Gabriel%20Franca&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Back-End%20%" alt="Gabriel Franca - Desenvolvedor Front-End" width="100%"/>
+<div align="center">
 
+  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=950606&height=200&section=header&text=Gabriel%20Franca&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Front-End%20%&descAlignY=58&descColor=ffffff)
+</div>v
 <!-- Texto digitando (animado) -->
 <a href="https://github.com/gabrielaristidesfranca00">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=E50914&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+%F0%9F%91%8B;Desenvolvedor+Front-End+em+forma%C3%A7%C3%A3o;Transformando+ideias+em+interfaces+%F0%9F%8E%A8;Buscando+minha+primeira+oportunidade+%F0%9F%9A%80" alt="Texto animado" />
@@ -21,7 +24,7 @@ Tenho foco em **desenvolvimento Front-End**: gosto de criar interfaces bonitas, 
 
 - 🎨 Aprimorando **layouts responsivos** com CSS (Flexbox e Grid)
 - ⚡ Aprofundando em **JavaScript** e manipulação do DOM
-- 🌱 Próximo passo: **React** e consumo de **APIs** *(ajuste conforme o que você estiver estudando)*
+- 🌱 Próximo passo: **React** e consumo de **APIs** 
 
 ## ⚡ Minhas habilidades
 
@@ -40,23 +43,15 @@ Tenho foco em **desenvolvimento Front-End**: gosto de criar interfaces bonitas, 
 
 | Projeto | Descrição | Tecnologias | Demo |
 |---|---|---|---|
-| [Nome do Projeto 1](link-do-repo) | Uma linha explicando o que ele faz | HTML, CSS | [Ver online](link-do-deploy) |
-| [Nome do Projeto 2](link-do-repo) | Uma linha explicando o que ele faz | HTML, CSS, JavaScript | [Ver online](link-do-deploy) |
-| [Nome do Projeto 3](link-do-repo) | Uma linha explicando o que ele faz | JavaScript | [Ver online](link-do-deploy) |
+| [Cafeteria 1](link-do-repo) | Uma linha explicando o que ele faz | HTML, CSS |
+| [Calculadora de juros](link-do-repo) | Uma linha explicando o que ele faz | HTML, CSS, JavaScript | [Ver online](link-do-deploy) |
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=gabrielaristidesfranca00&show_icons=true&theme=dark&title_color=E50914&icon_color=E50914&hide_border=true&bg_color=0d1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaristidesfranca00&layout=compact&theme=dark&title_color=E50914&hide_border=true&bg_color=0d1117)
 
 </div>
 
 ## 🎓 Formação
 
 - **Ciência da Computação** | Universidade Cruzeiro do Sul *(cursando)*
-- Cursos e certificações: *adicione aqui os seus*
 
 ## 🌐 Entre em contato
 
