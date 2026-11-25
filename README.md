@@ -1,11 +1,7 @@
 <div align="center">
 
 <!-- Troque pela URL do seu banner (atualizado para Front-End) -->
-<div align="center">
-
-  
-![Header](https://capsule-render.vercel.app/api?type=waving&color=006437&height=200&section=header&text=Gabriel%20Franca&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Front-End%20%&descAlignY=58&descColor=ffffff)
-</div>
+<img src="./header.svg" width="100%" alt="Banner Gabriel Franca"/>
 
 <!-- Texto digitando (animado) -->
 <a href="https://github.com/gabrielaristidesfranca00">
