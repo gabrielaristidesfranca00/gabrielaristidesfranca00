@@ -58,5 +58,5 @@ Tenho foco em **desenvolvimento Front-End**: gosto de criar interfaces bonitas, 
 
 </div>
 
-<!-- Rodapé animado (onda vermelha combinando com o banner) -->
+<!-- Rodapé animado (onda verde combinando com o banner) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=006437,100:FFFFFF&height=140&section=footer&text=Obrigado+pela+visita!&fontColor=FFFFFF&fontSize=24&fontAlignY=70&animation=twinkling" width="100%" alt="Rodapé animado"/>
