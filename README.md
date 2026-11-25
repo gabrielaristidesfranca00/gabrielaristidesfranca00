@@ -1,6 +1,11 @@
 <div align="center">
 
 <!-- Troque pela URL do seu banner (atualizado para Front-End) -->
+<div align="center">
+
+  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=950606&height=200&section=header&text=Gabriel%20Franca&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Back-End%20%&descAlignY=58&descColor=ffffff)
+</div>
 
 <!-- Texto digitando (animado) -->
 <a href="https://github.com/gabrielaristidesfranca00">
