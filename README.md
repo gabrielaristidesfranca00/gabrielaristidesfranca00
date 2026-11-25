@@ -39,12 +39,6 @@ Tenho foco em **desenvolvimento Front-End**: gosto de criar interfaces bonitas, 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🚀 Projetos em destaque
-
-| Projeto | Descrição | Tecnologias | Demo |
-|---|---|---|---|
-| [Cafeteria 1](link-do-repo) | Uma linha explicando o que ele faz | HTML, CSS |
-| [Calculadora de juros](link-do-repo) | Uma linha explicando o que ele faz | HTML, CSS, JavaScript | [Ver online](link-do-deploy) |
 
 
 </div>
