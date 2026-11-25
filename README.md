@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Troque pela URL do seu banner (atualizado para Front-End) -->
-<img src="./header.svg" width="100%" alt="Banner Gabriel Franca"/>
+
 
 <!-- Texto digitando (animado) -->
 <a href="https://github.com/gabrielaristidesfranca00">
