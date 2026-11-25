@@ -4,12 +4,12 @@
 <div align="center">
 
   
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0028B3&height=200&section=header&text=Gabriel%20Franca&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Front-End%20%&descAlignY=58&descColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=006437&height=200&section=header&text=Gabriel%20Franca&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Front-End%20%&descAlignY=58&descColor=ffffff)
 </div>
 
 <!-- Texto digitando (animado) -->
 <a href="https://github.com/gabrielaristidesfranca00">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=E50914&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+%F0%9F%91%8B;Desenvolvedor+Front-End+em+forma%C3%A7%C3%A3o;Transformando+ideias+em+interfaces+%F0%9F%8E%A8;Buscando+minha+primeira+oportunidade+%F0%9F%9A%80" alt="Texto animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FFFFFF&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+%F0%9F%91%8B;Desenvolvedor+Front-End+em+forma%C3%A7%C3%A3o;Transformando+ideias+em+interfaces+%F0%9F%8E%A8;Buscando+minha+primeira+oportunidade+%F0%9F%9A%80" alt="Texto animado" />
 </a>
 
 </div>
@@ -59,4 +59,4 @@ Tenho foco em **desenvolvimento Front-End**: gosto de criar interfaces bonitas, 
 </div>
 
 <!-- Rodapé animado (onda vermelha combinando com o banner) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:3D0000&height=140&section=footer&text=Obrigado+pela+visita!&fontColor=ffffff&fontSize=24&fontAlignY=70&animation=twinkling" width="100%" alt="Rodapé animado"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:FFFFFF&height=140&section=footer&text=Obrigado+pela+visita!&fontColor=ffffff&fontSize=24&fontAlignY=70&animation=twinkling" width="100%" alt="Rodapé animado"/>
